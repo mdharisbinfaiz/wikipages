@@ -1,7 +1,7 @@
 site_name: AllFunds Wiki
-site_url: http://localhost:8080
-repo_url: https://gitlabnew.techwave.net/fintrust/wiki.git
-edit_uri: https://gitlabnew.techwave.net/fintrust/wiki/-/edit/main/docs/
+site_url: https://mdharisbinfaiz.github.io/wikipages/
+repo_url: https://github.com/mdharisbinfaiz/wikipages.git
+edit_uri: https://github.com/mdharisbinfaiz/wikipages-/edit/main/docs/
 
 #theme: readthedocs
 theme:
